@@ -1,0 +1,180 @@
+[1216/164006:ERROR:process_info.cc(608)] range at 0xff53f000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_info.cc(608)] range at 0xff41f000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfe5cf000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xff53e000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfeeac000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfe5ce000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xff41e000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xffc5d000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfeeaf000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xffc5c000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfe5df000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfe5de000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfeb18000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfeb1f000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfe609000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfe60c000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_reader_win.cc(173)] ResumeThread: 参数错误。 (0x57)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:exception_snapshot_win.cc(87)] thread ID 6868 not found in process
+[1216/164006:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_info.cc(608)] range at 0xff04a000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xff04f000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfed5f000, size 0x230 fully unreadable
+[1216/164006:ERROR:process_info.cc(608)] range at 0xfed5b000, size 0xf84 fully unreadable
+[1216/164006:ERROR:process_reader_win.cc(233)] ReadMemory at 0xbfeac8 of 26 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1216/164006:ERROR:crash_report_exception_handler.cc(98)] WriteEverything failed
+[1216/164006:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[1216/164006:ERROR:process_reader_win.cc(233)] ReadMemory at 0xd65000 of 45056 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1216/164006:ERROR:crash_report_exception_handler.cc(98)] WriteEverything failed
+[1216/164006:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfef7e000, size 0x230 fully unreadable
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfef7d000, size 0xf84 fully unreadable
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfea9e000, size 0x230 fully unreadable
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfea9d000, size 0xf84 fully unreadable
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfe585000, size 0x230 fully unreadable
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfe58f000, size 0xf84 fully unreadable
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfecf4000, size 0x230 fully unreadable
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfecff000, size 0xf84 fully unreadable
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_info.cc(608)] range at 0xff3c9000, size 0x230 fully unreadable
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfe1ec000, size 0x230 fully unreadable
+[1216/164019:ERROR:process_info.cc(608)] range at 0xff3cf000, size 0xf84 fully unreadable
+[1216/164019:ERROR:process_info.cc(608)] range at 0xfe1eb000, size 0xf84 fully unreadable
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164019:ERROR:process_info.cc(608)] range at 0xff214000, size 0x230 fully unreadable
+[1216/164019:ERROR:process_info.cc(608)] range at 0xff21f000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xff0bf000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xff0be000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xfe6fa000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xfe6ff000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xff43f000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xff43b000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xff128000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xff12d000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xfeea9000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xfe813000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xfeeaf000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xfe81f000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xffae6000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xffaee000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xfe527000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xfe52e000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164020:ERROR:process_info.cc(608)] range at 0xff10f000, size 0x230 fully unreadable
+[1216/164020:ERROR:process_info.cc(608)] range at 0xff10e000, size 0xf84 fully unreadable
+[1216/164020:ERROR:process_reader_win.cc(233)] ReadMemory at 0xe95000 of 45056 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1216/164020:ERROR:crash_report_exception_handler.cc(98)] WriteEverything failed
+[1216/164020:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_info.cc(608)] range at 0xfec5d000, size 0x230 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xfec59000, size 0xf84 fully unreadable
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_info.cc(608)] range at 0xffa7f000, size 0x230 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xffa7e000, size 0xf84 fully unreadable
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_info.cc(608)] range at 0xff50f000, size 0x230 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xff50e000, size 0xf84 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xff9ce000, size 0x230 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xff9cb000, size 0xf84 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xff747000, size 0x230 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xff74c000, size 0xf84 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xfe83b000, size 0x230 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xfe83f000, size 0xf84 fully unreadable
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164148:ERROR:process_info.cc(608)] range at 0xff424000, size 0x230 fully unreadable
+[1216/164148:ERROR:process_info.cc(608)] range at 0xff42f000, size 0xf84 fully unreadable
+[1216/164149:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_info.cc(608)] range at 0xff3ec000, size 0x230 fully unreadable
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_info.cc(608)] range at 0xfeb19000, size 0x230 fully unreadable
+[1216/164149:ERROR:process_info.cc(608)] range at 0xff3ef000, size 0xf84 fully unreadable
+[1216/164149:ERROR:process_info.cc(608)] range at 0xfeb1f000, size 0xf84 fully unreadable
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_info.cc(608)] range at 0xff57f000, size 0x230 fully unreadable
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_info.cc(608)] range at 0xfe28f000, size 0x230 fully unreadable
+[1216/164149:ERROR:process_info.cc(608)] range at 0xff57c000, size 0xf84 fully unreadable
+[1216/164149:ERROR:process_info.cc(608)] range at 0xfe28d000, size 0xf84 fully unreadable
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_reader_win.cc(142)] SuspendThread: 拒绝访问。 (0x5)
+[1216/164149:ERROR:process_info.cc(608)] range at 0xfea3b000, size 0x230 fully unreadable
+[1216/164149:ERROR:process_info.cc(608)] range at 0xfea3e000, size 0xf84 fully unreadable
+[1216/164149:ERROR:process_reader_win.cc(233)] ReadMemory at 0xb75000 of 45056 bytes failed: 仅完成部分的 ReadProcessMemory 或 WriteProcessMemory 请求。 (0x12B)
+[1216/164149:ERROR:crash_report_exception_handler.cc(98)] WriteEverything failed
+[1216/164149:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)

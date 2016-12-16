@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>后台管理系统</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=7" /></meta>
+	<link rel="stylesheet" type="text/css" href="css/base.css">
+	<link rel="stylesheet" type="text/css" href="css/admin.css">
+
+</head>
+<body>
+	<div class="top">
+
+		<div class="logo1">
+			<a href=""><!-- <img src="images/LOGO.png"> -->
+				Your Logo
+			</a>
+		</div>
+		<div class="banner">
+			<ul class="navbar-left">
+				<li><a href="#" class="current">首页 <span>✖</span></a></li>
+				<li><a href="#">企业管理</a></li>
+				<li><a href="#" class="stu-detail">学生详情</a></li>
+			</ul>
+			<ul class="navbar-right">
+
+				<li><a href="#">退出</a></li>
+				<li><a href="#"></a></li>
+				<li><a href="#">你好，管理员！</a></li>
+				<li><a href="#"><img src="images/admin.png"></a></li>
+
+
+			</ul> 
+		</div>
+		
+	</div>
+	<div class="content">
+		<div class="content-left">
+			<ul class="left-menu">
+				<li class="active">
+					<a href="#"><img src="images/student.png">学生管理</a></li>
+					<li><a href="#"><img src="images/business.png">企业管理</a></li>
+					<li><a href="#"><img src="images/manage.png">运营管理</a></li>
+					<li><a href="#"><img src="images/course.png">课程管理</a></li>
+					<li><a href="#"><img src="images/student.png">虚拟学生管理</a></li>
+					<li><a href="#"><img src="images/vmbusiness.png">虚拟企业管理</a></li>
+				</ul>
+			</ul>
+		</div>
+		<div class="content-right" ng-app="userAPP" ng-controller="userLisrControl">
+			<div class="content-serach">
+				<h3>检索</h3>
+				<div class="condition">
+				<div class="serachbg"></div>
+					<select class="opt province">
+						<option>北京</option><option>北京</option>
+					</select>
+
+					<select class="opt address">
+						<option>海淀</option>	<option>海淀</option>	<option>海淀</option>
+					</select>
+
+					<form class="ser-form"> 
+						<input type="" name="" class="search-input" placeholder="输入企业名称或ID"></input><button class="search"></button>
+					</form>
+
+				</div>
+			</div>
+
+			<div class="content-detail">
+				<div class="content-detail-title">
+					<div class="title-left">
+						<h3>最新注册</h3>
+					</div>
+					<div class="title-right">
+						<span>未审核企业</span>
+						<span>审核不通过企业</span>
+						<span class="confirm">申请认证企业</span>
+						<span>已认证企业</span>
+						<span>被申请企业</span>
+					</div>
+
+				</div>
+				<div class="content-detail-list">
+					<table class="userlist"  cellpadding="0" border="1" cellspacing="0">
+						<thead class="thd">
+							<td>ID</td>
+							<td>头像</td>
+							<td>手机号</td>
+							<td>姓名</td>
+							<td>企业名称</td>
+							<td>企业性质</td>
+							<td>地点</td>
+							<td>公司规模</td>
+							<td>发布职位数</td>
+							<td>站内信</td>
+							<td>最后登录时间</td>
+							<td>操作</td>
+						</thead> 
+						<tr ng-repeat="user in users" >
+							<td>{{user.ID}}</td>
+							<td><img src="{{user.imageUrl}}"></td>
+							<td>{{user.phoneNum}}</td>
+							<td>{{user.userName}}</td>
+							<td>{{user.businessName}}</td>
+							<td>{{user.businessQuality}}</td>
+							<td>{{user.busAddress}}</td>
+							<td>{{user.companyStaue}}</td>
+							<td>{{user.jobNum}}</td>
+							<td>{{user.setFile}}</td>
+							<td>{{user.lasrLoginTime}}</td>
+							<td><a href="#" class="action">{{user.action}}</a></td>
+						</tr>
+					</table>
+				</div>
+				<div class="content-detail-page">
+					<nav>
+						<ul class="pagination">
+							<li>
+								<a href="#" aria-label="Previous">
+									<span aria-hidden="true">&laquo;</span>
+								</a>
+							</li>
+							<li><a href="#">1</a></li>
+							<li><a href="#">2</a></li>
+							<li><a href="#">3</a></li>
+							<li><a href="#">4</a></li>
+							<li><a href="#">5</a></li>
+							<li>
+								<a href="#" aria-label="Next">
+									<span aria-hidden="true">&raquo;</span>
+								</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+
+
+			</div>
+		
+			<div class="footer">
+				@company版权所有
+			</div>
+		</div>
+	</div>
+	<script src="node_modules/angular/angular.js"></script>
+	<script src="js/app.js"></script>
+	<script src="js/control.js"></script>
+</body>
+</html>
